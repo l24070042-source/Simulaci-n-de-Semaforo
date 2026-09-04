@@ -1,1 +1,2 @@
 # Simulaci-n-de-Semaforo
+El propósito principal es de esta simulacion es calcular cuántos vehículos logran cruzar una intersección a lo largo de un tiempo límite predefinido de 70 segundos.  Al iniciar, el programa interactúa con el usuario para solicitarle los parámetros necesarios para la simulación. Específicamente, pide la cantidad total de vehículos esperando, la duración en segundos de las luces verde, amarilla y roja, así como el tiempo que le toma a un solo vehículo cruzar la calle.  
